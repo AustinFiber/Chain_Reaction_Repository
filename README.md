@@ -5,6 +5,8 @@
 ## Project Overview
 #Our data is about export trade from multiple countries, but focused on trade from country A to country B in said year. The data set also included how much money in USD was being traded between country A and country B in said year. We want to know, which trade partners or commodities are most critical to global supply chains?
 
+We used AI to help us with our coding and visualization. 
+
 ## Austin Fiber, Cylie Leidy, Lindsay Gaul, Logan Kalman, Sydney Dews
 
 ##Repo Structure
