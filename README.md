@@ -20,4 +20,4 @@
   4. Open AnyLogic models in '/simulation/'
  
      ## Deliverables
-     ## List deliverables (Assignments 1-3 and final here)
+     # Deliverable 1
