@@ -1,8 +1,10 @@
 import pandas as pd
-
 # Read in Zip file
 zip_path = '/International_Trade_Database.zip'
-
 # Turn Zip file into CSV
 df = pd.read_csv(zip_path, compression='zip')
 print(df)
+
+import matplotlib.pyplot as plt
+plt.hist(df['Year'], bins= 30) 
+
