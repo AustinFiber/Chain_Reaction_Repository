@@ -22,6 +22,7 @@
      ## Deliverables
      # Deliverable 1
 To choose the kind of prediction model, first, we had to look at our dataset. Our dataset covers export trade from multiple countries, while focusing on trade from Country A to Country B. Our goal is to identify which trade partners or commodities are most critical to global supply chains.
+
 The link below gives an overview of every prediction model. After reviewing the pros and cons of every model and comparing it to the dataset, we decided that a time series model would be the best fit for us and our project. 
 
 A time series model is the best fit for our trade data because it looks at how things change over time. Our data shows how much money was traded between country A and country B each year, so it’s already set up in a way that works well with this kind of model. Time series models help you see patterns, like if trade is going up, going down, or changing with the seasons. They can also spot big changes caused by world events, like new laws or supply chain problems.
