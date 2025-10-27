@@ -37,7 +37,7 @@ https://insightsoftware.com/blog/top-5-predictive-analytics-models-and-algorithm
 #We are choosing to use AI Implementation for our project.
 For our Anylogic model this is what each of our blocks represent:
 Source - Reporter Name
-Queue - Trade Value in 1000 USD
+Queue - Sorting Items By Value
 Service - TransitTime (Days)
 Sink - Partner Name
 
