@@ -32,3 +32,13 @@ A time series model is the best fit for our trade data because it looks at how t
 Unlike simple averages, which just give you one number, time series models can show how trade is growing or shrinking. They can also make better guesses about the future. Since our data includes many countries and products, this model can help us look at all of them at once and find out which ones are most important. That way, you can figure out which trade partners or goods matter most to the global supply chain and where problems might show up.
 
 https://insightsoftware.com/blog/top-5-predictive-analytics-models-and-algorithms/
+
+     # Deliverable 2
+#W e are choosing to use AI Implementation for our project.
+For our Anylogic model this is what each of our blocks represent:
+Source - Reporter Name
+Queue - Trade Value in 1000 USD
+Service - TransitTime (Days)
+Sink - Partner Name
+
+The portion we think makes the most sense to use AI/Machine learning is the lead time estimate. This is because the variable we are measuring is the transit time. We are evaluating the time it took for items to travel from Country A to Country B and the time it takes varies. If we were able to predict the lead time estimate that would be beneficial to all of the countries. 
