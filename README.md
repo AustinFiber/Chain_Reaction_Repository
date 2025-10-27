@@ -34,7 +34,7 @@ Unlike simple averages, which just give you one number, time series models can s
 https://insightsoftware.com/blog/top-5-predictive-analytics-models-and-algorithms/
 
      # Deliverable 2
-#W e are choosing to use AI Implementation for our project.
+#We are choosing to use AI Implementation for our project.
 For our Anylogic model this is what each of our blocks represent:
 Source - Reporter Name
 Queue - Trade Value in 1000 USD
