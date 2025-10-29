@@ -46,3 +46,5 @@ Service - TransitTime (Days)
 Sink - Partner Name
 
 The portion we think makes the most sense to use AI/Machine learning is the lead time estimate. This is because the variable we are measuring is the transit time. We are evaluating the time it took for items to travel from Country A to Country B and the time it takes varies. If we were able to predict the lead time estimate that would be beneficial to all of the countries. 
+
+## Deliverable 3 summary 
