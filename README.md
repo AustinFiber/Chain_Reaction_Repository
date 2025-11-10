@@ -22,7 +22,7 @@ We used AI to help us with our coding and visualization.
   4. Open AnyLogic models in '/simulation/'
  
      ## Deliverables
-     # Deliverable 1
+     # Part 1 Summary
 To choose the kind of prediction model, first, we had to look at our dataset. Our dataset covers export trade from multiple countries, while focusing on trade from Country A to Country B. Our goal is to identify which trade partners or commodities are most critical to global supply chains.
 
 The link below gives an overview of every prediction model. After reviewing the pros and cons of every model and comparing it to the dataset, we decided that a time series model would be the best fit for us and our project. 
@@ -33,7 +33,7 @@ Unlike simple averages, which just give you one number, time series models can s
 
 https://insightsoftware.com/blog/top-5-predictive-analytics-models-and-algorithms/
 
- ## Deliverable 2
+ ## Part 2 Summary
 #We are choosing to use AI Implementation for our project.
 For our Anylogic model this is what each of our blocks represent
 
@@ -47,4 +47,4 @@ Sink - Partner Name
 
 The portion we think makes the most sense to use AI/Machine learning is the lead time estimate. This is because the variable we are measuring is the transit time. We are evaluating the time it took for items to travel from Country A to Country B and the time it takes varies. If we were able to predict the lead time estimate that would be beneficial to all of the countries. 
 
-## Deliverable 3 summary 
+## Part 3 summary 
