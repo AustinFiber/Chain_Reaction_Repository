@@ -22,7 +22,7 @@ We used AI to help us with our coding and visualization.
   4. Open AnyLogic models in '/simulation/'
  
      ## Deliverables
-     # Part 1 Summary
+   # Part 1 Summary
 To choose the kind of prediction model, first, we had to look at our dataset. Our dataset covers export trade from multiple countries, while focusing on trade from Country A to Country B. Our goal is to identify which trade partners or commodities are most critical to global supply chains.
 
 The link below gives an overview of every prediction model. After reviewing the pros and cons of every model and comparing it to the dataset, we decided that a time series model would be the best fit for us and our project. 
