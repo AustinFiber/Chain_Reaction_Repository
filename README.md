@@ -48,3 +48,9 @@ Sink - Partner Name
 The portion we think makes the most sense to use AI/Machine learning is the lead time estimate. This is because the variable we are measuring is the transit time. We are evaluating the time it took for items to travel from Country A to Country B and the time it takes varies. If we were able to predict the lead time estimate that would be beneficial to all of the countries. 
 
 ## Part 3 summary 
+#We chose option B for our project, this means we are focusing on python coding with the use of AI. We completed a coding file with two visualizations along with an Anylogic model and a summary to explain our data, how our model runs, and how we interpreted the results. 
+
+#We faced many challenges during this project due to our large data file containing data ranging from 1988 to 2021, over 630,000 cells of data, as well as truly not having a variable to measure and track. Along with this, we had to make our own data in regards to lead time in order to have the proper data to run our model. Because we had to create our own data, the accuracy of our model is poor and will never be accurate.
+
+#The AI tools and libraries we utilized during this project were sklearn and decision tree regressor through sklearn. We also utilized Google Gemini and the notes from class to be successful. 
+
